@@ -14,4 +14,4 @@ Les données sont au format csv
 
 ## Comment télécharger ?
 Cliquez sur "clone or download"
-![Telecharger]()
+![Telecharger](https://github.com/senegalouvert/Carte-electorale-2017/blob/master/images/telecharger.png?raw=true)
